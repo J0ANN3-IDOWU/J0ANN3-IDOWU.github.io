@@ -1,2 +1,0 @@
-# crashcourse
-An art website
